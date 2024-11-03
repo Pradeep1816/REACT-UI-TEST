@@ -14,7 +14,7 @@ function FooterBanner() {
         </h2>
       </div>
       <div className="mt-5">
-        <button className="border bg-white p-2 rounded-full">
+        <button className="border bg-white p-2 rounded-full transition-transform duration-300 hover:bg-blue-700 hover:scale-105 hover:text-white">
           Scheduale a Expert call
         </button>
       </div>
