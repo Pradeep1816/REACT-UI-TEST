@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Corporate Governance & Compliance",
+     "image":"/images/1.png",
+    "services": [
+      "Compliance with Companies Act & regulation",
+      "Maintaining statutory registers & records",
+      "Board's Meeting Facilitation"
+    ]
+  },
+  {
+    "title": "Corporate Restructuring",
+    "image":"/images/2.png",
+    "services": [
+      "Mergers & Acquisitions (M&A) compliance",
+      "Buybacks, demergers, and spin-offs",
+      "Corporate reorganization & liquidation"
+    ]
+  },
+  {
+    "title": "Company Formation & Registration",
+    "image":"/images/3.png",
+    "services": [
+      "Incorporation of Private, Public, Section 8 companies, and LLPs",
+      "Drafting MOA & AOA",
+      "License procurement & director registration"
+    ]
+  },
+  {
+    "title": "Secretarial Audit & Due Diligence",
+    "image":"/images/4.png",
+    "services": [
+      "Compliance audits & secretarial checks",
+      "M&A due diligence",
+      "Filing and regulatory compliance"
+    ]
+  },
+  {
+    "title": "Shareholder Services",
+    "image":"/images/5.png",
+    "services": [
+      "Share transfers, allotments & certificates",
+      "Managing dividends & shareholder disputes"
+    ]
+  },
+  {
+    "title": "Regulatory Compliance & Liaison",
+    "image":"/images/6.png",
+    "services": [
+      "SEBI, FEMA, RBI reporting",
+      "Industrial licenses & government liaison"
+    ]
+  },
+  {
+    "title": "Corporate Legal Advisory",
+    "image":"/images/7.jpeg",
+    "services": [
+      "Drafting contracts & legal documents",
+      "Legal opinions on company law",
+      "Director duties & compliance advisory"
+    ]
+  },
+  {
+    "title": "Corporate Finance & Taxation",
+    "image":"/images/8.png",
+    "services": [
+      "Tax planning & CSR compliance",
+      "ESOP management",
+      "Public issues & private placements"
+    ]
+  }
+]
